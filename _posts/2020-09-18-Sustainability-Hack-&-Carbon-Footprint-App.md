@@ -8,4 +8,4 @@ published: false
 
 Here is a photo:
 
-![SustainabilityHackathon](/files/SustainabilityHack/showing.jpg)
+![SustainabilityHackathon]({{ site.baseurl }}/files/SustainabilityHack/showing.jpg)

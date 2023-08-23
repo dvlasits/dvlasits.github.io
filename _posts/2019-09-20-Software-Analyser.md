@@ -8,11 +8,11 @@ published: false
 
 I am going to talk about an interesting part of my ongoing Computer Science Coursework as I am finding it fascinating. A part of my coursework needs to time code that calculates the runtime of each function.
 
-![SoftwareAnalyser](/files/SoftwareAnalyser/SmallSmall.png)
+![SoftwareAnalyser]({{ site.baseurl }}/files/SoftwareAnalyser/SmallSmall.png)
 
 My code attaches decorators to every function in the code it is analyzing which records the starting and stop time of each function in an array. That array is then deconstructed to work out how much total time is spent solely in one function not counting the time that another function within that function runs for. So a user can see exactly what parts of an algorithm are taking up the time. The code then outputs a graph such as the one below with the name and times spent in each function on the node and the number of times one function called another on the edges.
 
-![SoftwareAnalyser](/files/SoftwareAnalyser/GraphLong.png)
+![SoftwareAnalyser]({{ site.baseurl }}/files/SoftwareAnalyser/GraphLong.png)
 
 Adding up all the times in each node would then tell you how much time the code takes. For example, you can see on the graph above that most of the time is taken inside Toggle and Turn even though Finding is called 300 times. My algorithm for working out the times works as follows:
 

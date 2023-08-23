@@ -3,6 +3,7 @@ layout: post
 title: "Eth New York"
 date: 2022-06-30 14:48:44 +0100
 categories: Blockchain
+image: files/EthNewYork/skyscraper.jpg
 ---
 
 I had the incredible opportunity to attend the Ethereum New York Hackathon in June.
@@ -32,14 +33,14 @@ Gnosis Chain — Best Use
 
 Here is a photo of the finished app:
 
-![Eth New York](/files/EthNewYork/app_photo.png)
+![Eth New York]({{ site.baseurl }}/files/EthNewYork/app_photo.png)
 
 Here is a gallery of some other photos:
 
-![Eth New York](/files/EthNewYork/asleep.jpg)
-![Eth New York](/files/EthNewYork/closeup.jpg)
-![Eth New York](/files/EthNewYork/group.jpg)
-![Eth New York](/files/EthNewYork/skyscraper.jpg)
+![Eth New York]({{ site.baseurl }}/files/EthNewYork/asleep.jpg)
+![Eth New York]({{ site.baseurl }}/files/EthNewYork/closeup.jpg)
+![Eth New York]({{ site.baseurl }}/files/EthNewYork/group.jpg)
+![Eth New York]({{ site.baseurl }}/files/EthNewYork/skyscraper.jpg)
 
 
 

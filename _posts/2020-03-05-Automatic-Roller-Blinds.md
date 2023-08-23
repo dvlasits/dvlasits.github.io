@@ -3,6 +3,7 @@ layout: post
 title: "Automatic Roller Blinds"
 date: 2020-03-05 14:48:44 +0100
 categories: puzzles
+image: files/RollerBlinds/RollerPhotos.png
 ---
 
 For my tech project, I decided to make an automatic roller blind. I used Solidworks a lot to design the product and then coded in python. I made an app for it to be controlled and settings set on the phone and also wrote code so that it would work with my google home.
@@ -10,17 +11,17 @@ For my tech project, I decided to make an automatic roller blind. I used Solidwo
 
 Here is the final render of the product.
 
-![RollerBlinds](/files/RollerBlinds/render.png)
+![RollerBlinds]({{ site.baseurl }}/files/RollerBlinds/render.png)
 
 Here it is all 3d printed and screwed together:
 
-![RollerBlinds](/files/RollerBlinds/RollerPhotos.png)
+![RollerBlinds]({{ site.baseurl }}/files/RollerBlinds/RollerPhotos.png)
 
 Here it is screwed up and ready to go!
 
-![RollerBlinds](/files/RollerBlinds/screwed_no_cover.jpg)
+![RollerBlinds]({{ site.baseurl }}/files/RollerBlinds/screwed_no_cover.jpg)
 
-![RollerBlinds](/files/RollerBlinds/screwed_cover.jpg)
+![RollerBlinds]({{ site.baseurl }}/files/RollerBlinds/screwed_cover.jpg)
 
 And here are some videos of it in action:
 
@@ -38,4 +39,4 @@ Here is a demo without the blind:
 
 Here are two photos of the GUI:
 
-![RollerBlinds](/files/RollerBlinds/JoinedScreens.png)
+![RollerBlinds]({{ site.baseurl }}/files/RollerBlinds/JoinedScreens.png)

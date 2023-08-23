@@ -1,7 +1,11 @@
 ---
 layout: post
 title: "Maths Beyond Limits"
+categories: ["teaching"]
 date: 2023-01-08 14:48:44 +0100
+description: "I taught at an amazing maths camp in Poland!"
+featured: false
+image: files/MathsBeyondLimits/group_photo.jpg
 categories: teaching
 ---
 

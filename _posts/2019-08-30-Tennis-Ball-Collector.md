@@ -3,6 +3,8 @@ layout: post
 title: "Tennis Ball Collector"
 date: 2019-08-30 14:48:44 +0100
 categories: robotics programming
+image: files/TennisBall/robo.png
+featured: true
 ---
 
 This year I also worked on the code for a tennis ball collector here is a montage of it in action:
