@@ -4,6 +4,7 @@ title: "Project Euler: Memoization"
 date: 2019-08-28 14:48:44 +0100
 categories: puzzles programming
 hidden: true
+comments: false
 ---
 
 I wanted to talk about something I learnt that I found really interesting called memoization. Memoization is where recursive functions memorize what has been passed in and what was returned and therefore can sometimes avoid recursing parts that have already been found once. For Example:

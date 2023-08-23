@@ -5,6 +5,8 @@ date: 2022-12-14 14:48:44 +0100
 categories: haskell
 image: files/HaskellPuzzle/artwork.jpg
 featured: true
+comments: false
+
 ---
 
 I would like to preface this by saying Haskell is a never ending hole but still.

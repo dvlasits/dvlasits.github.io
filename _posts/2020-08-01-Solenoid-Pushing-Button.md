@@ -4,6 +4,8 @@ title: "Solenoid Pushing Button"
 date: 2020-09-18 14:48:44 +0100
 categories: robotics
 published: false
+comments: false
+
 ---
 
 View clip on the left which I designed and printed so my dad could remote reset a machine.

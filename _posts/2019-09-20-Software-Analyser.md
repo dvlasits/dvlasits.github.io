@@ -4,6 +4,8 @@ title: "Software Analyser"
 date: 2019-09-20 14:48:44 +0100
 categories: puzzles programming
 published: false
+comments: false
+
 ---
 
 I am going to talk about an interesting part of my ongoing Computer Science Coursework as I am finding it fascinating. A part of my coursework needs to time code that calculates the runtime of each function.

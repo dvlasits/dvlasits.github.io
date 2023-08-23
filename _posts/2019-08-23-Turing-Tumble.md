@@ -4,6 +4,7 @@ title: "Turing Tumble"
 date: 2019-08-23 14:48:44 +0100
 categories: puzzles
 image: files/TuringTumble/photo.jpg
+comments: false
 ---
 
 Turing Tumble is a game I found in the raspberry pi shop where you have to solve problems by placing parts on a grid and then letting balls fall down. I spent hours in there solving some of the harder problems. Here are some videos of solutions to my favorite problems going from easy to hard.

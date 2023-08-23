@@ -4,6 +4,8 @@ title:  "3D Printed Masks"
 tags: [red, yellow]
 image: files/3DMasks/Masks.jpeg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
+comments: false
+
 ---
 
 As I own a Creality Ender 3 Pro 3D printer I wanted to see if I could help out by printing face masks. After contacting my local surgery I found out they were indeed in urgent need of face masks. 

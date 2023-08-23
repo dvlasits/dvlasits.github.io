@@ -4,6 +4,7 @@ title: "Project Euler: Diophantine Equations"
 date: 2019-09-10 14:48:44 +0100
 categories: puzzles programming
 published: false
+comments: false
 ---
 
 Project Euler is a great website for solving problems you can read up on it [here](https://projecteuler.net/): 

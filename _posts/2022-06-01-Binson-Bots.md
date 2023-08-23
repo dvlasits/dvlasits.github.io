@@ -4,6 +4,8 @@ title: "Binson Bots"
 date: 2022-06-01 14:48:44 +0100
 categories: teaching
 image: files/BinsonBots/piBinson.jpg
+comments: false
+
 ---
 
 Binson Bots is the society in Robinson I co-founded. It has the goal of helping everyone irrespective or their Computer Science get a feeling of programming, what's it like and how to use it.

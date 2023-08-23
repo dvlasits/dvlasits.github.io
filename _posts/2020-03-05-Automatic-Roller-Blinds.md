@@ -4,6 +4,8 @@ title: "Automatic Roller Blinds"
 date: 2020-03-05 14:48:44 +0100
 categories: puzzles
 image: files/RollerBlinds/RollerPhotos.png
+comments: false
+
 ---
 
 For my tech project, I decided to make an automatic roller blind. I used Solidworks a lot to design the product and then coded in python. I made an app for it to be controlled and settings set on the phone and also wrote code so that it would work with my google home.

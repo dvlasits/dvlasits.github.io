@@ -4,6 +4,8 @@ title: "Frozen Data Pitch"
 date: 2023-01-10 14:48:44 +0100
 categories: startup
 image: files/FrozenData/logo-2.png
+comments: false
+
 ---
 
 I am beginning an exciting journey by working on a startup called Frozen Data. 

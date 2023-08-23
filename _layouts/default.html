@@ -18,6 +18,12 @@
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
+<!--Trying lightgallery plugin here -->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/css/lightgallery.min.css">
+<script src="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/js/lightgallery.min.js"></script>
+
+
 </head>
 
 {% if jekyll.environment == 'production' %}
@@ -205,5 +211,26 @@ ga('send', 'pageview');
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
 
+
+
+<!-- Trying lightgallery plugin here 
+<ul id="my-gallery" class="list-unstyled">
+    <li data-src="..files/PiWars/P1000203.JPG">
+      <img src="../files/PiWars/P1000203.JPG" alt="Image 1">
+    </li>
+    <li data-src="{{ site.baseurl }}/files/PiWars/P1000203.JPG">
+      <img src="{{ site.baseurl }}/files/PiWars/P1000203.JPG" alt="Image 2">
+    </li>
+</ul>
+
+<script>
+    lightGallery(document.getElementById('my-gallery'), {
+      mode: 'lg-fade', // You can choose different gallery modes
+      speed: 50000, // Animation speed in milliseconds
+      download: false, // Disable image download button if needed
+      // More options...
+    });
+  </script>
+-->
 </body>
 </html>

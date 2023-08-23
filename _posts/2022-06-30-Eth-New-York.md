@@ -4,6 +4,8 @@ title: "Eth New York"
 date: 2022-06-30 14:48:44 +0100
 categories: Blockchain
 image: files/EthNewYork/skyscraper.jpg
+comments: false
+
 ---
 
 I had the incredible opportunity to attend the Ethereum New York Hackathon in June.

@@ -5,6 +5,8 @@ date: 2023-07-16 14:48:44 +0100
 categories: Programming Idris Types
 image: files/LowLevelIdris/code.png
 featured: true
+comments: false
+
 ---
 
 This is the first library to guarantee the elimination of pointer bugs and array bounds bugs at runtime whilst allowing for low-level operations. It also allows for duplicating pointers without resorting to reference counting, like Rust has to. Allowing for a type of compile time reference counting.

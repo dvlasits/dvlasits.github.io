@@ -7,6 +7,8 @@ description: "I taught at an amazing maths camp in Poland!"
 featured: false
 image: files/MathsBeyondLimits/group_photo.jpg
 categories: teaching
+comments: false
+
 ---
 
 Maths Beyond Limits is an incredible Mathematical Camp hosted in Poland for high school students around the world.
