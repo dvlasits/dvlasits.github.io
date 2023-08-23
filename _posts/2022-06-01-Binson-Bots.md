@@ -17,18 +17,14 @@ We decided robots would be great at achieving this, as we could set exercises wi
 And here are some photos of students coding away and being taught :). We also go and help out at the Raspberry Pi foundation helping younger primary school students get excited about coding too!
 
 
-![Eth New York](/files/BinsonBots/BinsonBotsEvent1.png)
-![Eth New York](/files/BinsonBots/BinsonBotsEvent2.png)
-![Eth New York](/files/BinsonBots/BinsonBotsEvent3.png)
-![Eth New York](/files/BinsonBots/BinsonBotsEvent4.jpeg)
-![Eth New York](/files/BinsonBots/piBinson.jpg)
-![Eth New York](/files/BinsonBots/Robot.png)
-
-
-
-
-
-
+![Binson Bots](/files/BinsonBots/BinsonBotsEvent1.png)
+![Binson Bots](/files/BinsonBots/BinsonBotsEvent2.png)
+![Binson Bots](/files/BinsonBots/BinsonBotsEvent3.png)
+![Binson Bots](/files/BinsonBots/BinsonBotsEvent4.jpeg)
+![Binson Bots](/files/BinsonBots/piBinson.jpg)
+![Binson Bots](/files/BinsonBots/Robot.png)
 
 For fun here is also a video of our robot spinning:
+
+<iframe width="560" height="315" src="https://youtu.be/BPhYgxhAh7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
