@@ -26,7 +26,7 @@ doFact = lambda h : lambda n : \
 ifte(isZero(pred(n)))(lambda : one)(lambda : mult(n)(h(h)(pred(n))()))
 {% endhighlight %}
 
-[Here is the lambda pdf](/files/Lambda.pdf){:target="_blank"}
+[Here is the lambda pdf](/files/MathsBeyondLimits/Lambda.pdf){:target="_blank"}
 
 If you're interested in trying the exercises they are all in here.
 
@@ -35,7 +35,7 @@ Complexity Theory:
 
 The second course I taught was complexity theory. Which has a lot of very interesting exercises within it revolving around translating problems into other problems which you know how to solve.
 
-[Here is the complexity pdf](/files/Complexity.pdf){:target="_blank"}
+[Here is the complexity pdf](/files/MathsBeyondLimits/Complexity.pdf){:target="_blank"}
 
 My handout is a very compressed version of the great notes written by Prof . Anuj Duwar at the University of Cambridge.
 

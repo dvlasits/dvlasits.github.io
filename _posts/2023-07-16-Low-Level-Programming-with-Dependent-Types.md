@@ -7,7 +7,7 @@ categories: Programming Idris Types
 
 This is the first library to guarantee the elimination of pointer bugs and array bounds bugs at runtime whilst allowing for low-level operations. It also allows for duplicating pointers without resorting to reference counting, like Rust has to. Allowing for a type of compile time reference counting.
 
-[The full writeup is here](/files/Low_level_programming_in_Idris.pdf){:target="_blank"}
+[The full writeup is here](/files/LowLevelIdris/Low_level_programming_in_Idris.pdf){:target="_blank"}
 
 An article by google said that half of the known exploitable bugs in chrome are use
 after free bugs. This is when a pointer is accessed after the data it was pointing to
