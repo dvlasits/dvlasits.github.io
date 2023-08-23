@@ -7,13 +7,7 @@ categories: Programming Idris Types
 
 This is the first library to guarantee the elimination of pointer bugs and array bounds bugs at runtime whilst allowing for low-level operations. It also allows for duplicating pointers without resorting to reference counting, like Rust has to. Allowing for a type of compile time reference counting.
 
-The full writeup:
-
-<a href="/files/Low_level_programming_in_Idris.pdf" download class="btn">Download PDF</a>
-
-[Click me](http://www.google.com){: .btn}
-
-<button name="button">Click me</button>
+[The full writeup is here](/files/Low_level_programming_in_Idris.pdf){:target="_blank"}
 
 An article by google said that half of the known exploitable bugs in chrome are use
 after free bugs. This is when a pointer is accessed after the data it was pointing to
@@ -42,7 +36,7 @@ So ... What are Linear Types:
 We can define a function with the type signature
 
 {% highlight haskell %}
-f : (1 \_ : Int) -> Int
+f : (1 _ : Int) -> Int
 {% endhighlight %}
 
 The intuition behind this is that if the output i.e. (f 5) is "consumed exactly once" then we guarantee that the inputted argument is "consumed exactly once" in total.
@@ -77,11 +71,11 @@ For example:
 {% highlight haskell %}
 getType : Int -> Type
 getType 0 = String
-getType \_ = Int
+getType _ = Int
 
 doSomething : (x : Int) -> (getType x)
 doSomething 0 = "Zero"
-doSomething x = 7\*x
+doSomething x = 7*x
 {% endhighlight %}
 
 And this type checks and compiles. Which I think is absolutely incredible.
